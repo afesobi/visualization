@@ -10,7 +10,10 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+https://public.tableau.com/app/profile/harim.jung/viz/UNICEF_CF_SOWC_0310/CircularSankey
+1. Clear Data Representation: This Sankey diagram provides a clear flow of different feeding indicators (e.g., Introduction to Solid Foods, Minimum Acceptable Diet, Minimum Meal Frequency) for various countries over time. The visual structure is easy to follow with the colors clearly representing different categories, which is essential for understanding complex datasets like the one presented here.
+2. Effective Colour Usage: The use of different colours for various feeding indicators enhances clarity by immediately distinguishing between them. Each colour corresponds to a specific data point and helps the viewer quickly grasp the trends.
+3. Simple and Focus: The use of a single visualization type (Sankey diagram) to represent complex data is effective. The chart focuses on the transitions in feeding practices over time, which is the central message of this dataset.
 
 
 
@@ -21,8 +24,9 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-
+   1. Country Labels: Abbreviations used in the diagram might not be easily recognizable by users. A legend can be useful here.
+   2. Given that this is a complex dataset, adding interactivity (e.g., mouse hover for more detailed information about each country and year) would allow the viewer to explore the data more deeply without overwhelming them with too much information at once.
+   3. Additional COntext and Annotations: A  brief explanation of what each indicator means (e.g., Minimum Acceptable Diet, Minimum Meal Frequency) could be helpful for viewers who may not be familiar with these terms. This could be provided as a side note or annotation on the chart itself.
 
 
 
